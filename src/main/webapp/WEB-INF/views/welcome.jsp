@@ -8,8 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h2>Hi Friend Chia Pi Lo!</h2>
-<div style="width:100%;">
+<div style="width:100%;margin:0 auto;">
 <div style="width:50%; margin:0 auto;">
 	<h1>Welcome ${username}</h1>
 </div>
